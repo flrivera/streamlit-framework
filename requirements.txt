@@ -169,7 +169,6 @@ six==1.15.0
 smmap==4.0.0
 sniffio==1.2.0
 sos==4.0
-ssh-import-id==5.10
 statsmodels==0.12.2
 stevedore==3.3.0
 streamlit==0.83.0
