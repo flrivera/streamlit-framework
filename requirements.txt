@@ -1,7 +1,3 @@
-pandas
-streamlit
-plotly
-python-dotenv
-altair
-bokeh
-requests
+
+
+Dependencies: numpy,pandas,os,python_dotenv,alpha_vantage,datetime,altair
