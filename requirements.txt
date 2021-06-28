@@ -142,7 +142,6 @@ pyquery==1.4.3
 pyrsistent==0.15.5
 pyserial==3.4
 python-dateutil==2.8.1
-python-debian===0.1.36ubuntu1
 python-dotenv==0.18.0
 python-slugify==4.0.1
 PythonQwt==0.9.0
@@ -197,7 +196,6 @@ typing-extensions==3.7.4.3
 tzlocal==2.1
 ubuntu-advantage-tools==20.3
 ufw==0.36
-unattended-upgrades==0.1
 urllib3==1.25.8
 validators==0.18.2
 w3lib==1.22.0
