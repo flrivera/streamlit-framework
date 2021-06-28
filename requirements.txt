@@ -141,7 +141,6 @@ pyppeteer==0.2.5
 pyquery==1.4.3
 pyrsistent==0.15.5
 pyserial==3.4
-python-apt==2.0.0+ubuntu0.20.4.4
 python-dateutil==2.8.1
 python-debian===0.1.36ubuntu1
 python-dotenv==0.18.0
