@@ -197,3 +197,5 @@ widgetsnbextension==3.5.1
 wrapt==1.12.1
 yarl==1.6.3
 zipp==1.0.0
+libgirepository1.0-dev
+--no-use-pep517
