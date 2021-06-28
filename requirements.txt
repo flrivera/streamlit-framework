@@ -39,10 +39,6 @@ decorator==4.4.2
 defusedxml==0.7.1
 dill==0.3.3
 distro==1.4.0
-distro-info===0.23ubuntu1
-efficientnet==1.1.1
-entrypoints==0.3
-fake-useragent==0.1.11
 Flask==2.0.0rc1
 flatbuffers==1.12
 gast==0.3.3
@@ -64,7 +60,6 @@ ipykernel==5.5.3
 ipython==7.22.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
-itsdangerous==2.0.0rc2
 jedi==0.18.0
 Jinja2==3.0.0rc1
 joblib==1.0.1
