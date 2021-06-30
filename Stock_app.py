@@ -13,7 +13,6 @@ import os
 from Month_dict import month_dict
 from dotenv import load_dotenv
 from urllib.error import URLError
-from vega_datasets import data
 
 
 load_dotenv() # load my enviornment variables
